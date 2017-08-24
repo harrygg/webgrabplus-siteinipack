@@ -11,7 +11,7 @@
     <channel update="i" site="programatv.bg" site_id="4##BBTL" xmltv_id="bTV Lady">bTV Lady</channel>
     <channel update="i" site="programatv.bg" site_id="8##BBTS" xmltv_id="Ring.bg (bTV Sport)">Ring.bg (bTV Sport)</channel>
     <channel update="i" site="programatv.bg" site_id="8##novatvbg" xmltv_id="Nova TV">Nova TV</channel>
-    <channel update="i" site="programatv.bg" site_id="8##BNKN" xmltv_id="Kino Nova">Kino Nova</channel>
+    <channel update="i" site="programatv.bg" site_id="8##BNKN" xmltv_id="KinoNova">KinoNova</channel>
     <channel update="i" site="programatv.bg" site_id="8##BNDI" xmltv_id="Diema">Diema</channel>
     <channel update="i" site="programatv.bg" site_id="12##BNFA" xmltv_id="Diema Family">Diema Family</channel>
     <channel update="i" site="programatv.bg" site_id="12##BNSP" xmltv_id="Nova Sport">Nova Sport</channel>

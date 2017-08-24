@@ -1,0 +1,78 @@
+<channels>
+  <channel update="i" site="engin.tv" site_id="127" xmltv_id="NTV Spor">NTV Spor</channel>
+  <channel update="i" site="engin.tv" site_id="365" xmltv_id="A Haber">A Haber</channel>
+  <channel update="i" site="engin.tv" site_id="83" xmltv_id="ATV">ATV</channel>
+  <channel update="i" site="engin.tv" site_id="456" xmltv_id="Semerkand">Semerkand</channel>
+  <channel update="i" site="engin.tv" site_id="15" xmltv_id="TRT 1">TRT 1</channel>
+  <channel update="i" site="engin.tv" site_id="92" xmltv_id="Show TV">Show TV</channel>
+  <channel update="i" site="engin.tv" site_id="94" xmltv_id="Kanal D">Kanal D</channel>
+  <channel update="i" site="engin.tv" site_id="90" xmltv_id="Star TV">Star TV</channel>
+  <channel update="i" site="engin.tv" site_id="95" xmltv_id="Kanal 7 (tr)">Kanal 7 (tr)</channel>
+  <channel update="i" site="engin.tv" site_id="29" xmltv_id="Flash TV">Flash TV</channel>
+  <channel update="i" site="engin.tv" site_id="87" xmltv_id="FOX TR">FOX TR</channel>
+  <channel update="i" site="engin.tv" site_id="24" xmltv_id="TV 8">TV 8</channel>
+  <channel update="i" site="engin.tv" site_id="321" xmltv_id="Beyaz TV">Beyaz TV</channel>
+  <channel update="i" site="engin.tv" site_id="132" xmltv_id="Teve 2">Teve 2</channel>
+  <channel update="i" site="engin.tv" site_id="338" xmltv_id="TRT DİYANET">TRT DİYANET</channel>
+  <channel update="i" site="engin.tv" site_id="16" xmltv_id="TRT Haber">TRT Haber</channel>
+  <channel update="i" site="engin.tv" site_id="114" xmltv_id="TRT TÜRK">TRT TÜRK</channel>
+  <channel update="i" site="engin.tv" site_id="21" xmltv_id="NTV">NTV</channel>
+  <channel update="i" site="engin.tv" site_id="20" xmltv_id="CNN Turk">CNN Turk</channel>
+  <channel update="i" site="engin.tv" site_id="22" xmltv_id="Haber Turk">Haber Turk</channel>
+  <channel update="i" site="engin.tv" site_id="249" xmltv_id="Kanal t">Kanal t</channel>
+  <channel update="i" site="engin.tv" site_id="302" xmltv_id="Euronews">Euronews</channel>
+  <channel update="i" site="engin.tv" site_id="174" xmltv_id="CNN International">CNN International</channel>
+  <channel update="i" site="engin.tv" site_id="171" xmltv_id="BBC Worldnews">BBC Worldnews</channel>
+  <channel update="i" site="engin.tv" site_id="169" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
+  <channel update="i" site="engin.tv" site_id="200" xmltv_id="Bloomberg">Bloomberg</channel>
+  <channel update="i" site="engin.tv" site_id="349" xmltv_id="France 24">France 24</channel>
+  <channel update="i" site="engin.tv" site_id="350" xmltv_id="France 24 FR">France 24 FR</channel>
+  <channel update="i" site="engin.tv" site_id="175" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+  <channel update="i" site="engin.tv" site_id="184" xmltv_id="TV5 Monde">TV5 Monde</channel>
+  <channel update="i" site="engin.tv" site_id="170" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
+  <channel update="i" site="engin.tv" site_id="181" xmltv_id="NHK World">NHK World</channel>
+  <channel update="i" site="engin.tv" site_id="303" xmltv_id="Arirang">Arirang</channel>
+  <channel update="i" site="engin.tv" site_id="286" xmltv_id="CCTV 4">CCTV 4</channel>
+  <channel update="i" site="engin.tv" site_id="287" xmltv_id="CGTN">CGTN</channel>
+  <channel update="i" site="engin.tv" site_id="420" xmltv_id="CCTV 9 Documentary">CCTV 9 Documentary</channel>
+  <channel update="i" site="engin.tv" site_id="195" xmltv_id="TRT Avaz">TRT Avaz</channel>
+  <channel update="i" site="engin.tv" site_id="173" xmltv_id="Kazakh TV">Kazakh TV</channel>
+  <channel update="i" site="engin.tv" site_id="194" xmltv_id="Hayat Music">Hayat Music</channel>
+  <channel update="i" site="engin.tv" site_id="17" xmltv_id="TRT 3 - SPOR">TRT 3 - SPOR</channel>
+  <channel update="i" site="engin.tv" site_id="392" xmltv_id="TRT Spor">TRT Spor</channel>
+  <channel update="i" site="engin.tv" site_id="291" xmltv_id="TRT Music">TRT Music</channel>
+  <channel update="i" site="engin.tv" site_id="33" xmltv_id="Kral Pop">Kral Pop</channel>
+  <channel update="i" site="engin.tv" site_id="38" xmltv_id="Dream TV">Dream TV</channel>
+  <channel update="i" site="engin.tv" site_id="234" xmltv_id="Power Turk">Power Turk</channel>
+  <channel update="i" site="engin.tv" site_id="396" xmltv_id="Minika Cocuk">Minika Cocuk</channel>
+  <channel update="i" site="engin.tv" site_id="18" xmltv_id="TRT Cocuk">TRT Cocuk</channel>
+  <channel update="i" site="engin.tv" site_id="167" xmltv_id="MİNİKA GO">MİNİKA GO</channel>
+  <channel update="i" site="engin.tv" site_id="362" xmltv_id="SONY CHANNEL">SONY CHANNEL</channel>
+  <channel update="i" site="engin.tv" site_id="14" xmltv_id="Cartoon TR">Cartoon TR</channel>
+  <channel update="i" site="engin.tv" site_id="215" xmltv_id="Disney TR">Disney TR</channel>
+  <channel update="i" site="engin.tv" site_id="285" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+  <channel update="i" site="engin.tv" site_id="460" xmltv_id="Chasse &amp; Peche">Chasse &amp; Peche</channel>
+  <channel update="i" site="engin.tv" site_id="360" xmltv_id="Planet Mutfak">Planet Mutfak</channel>
+  <channel update="i" site="engin.tv" site_id="361" xmltv_id="Planet Turk">Planet Turk</channel>
+  <channel update="i" site="engin.tv" site_id="237" xmltv_id="Yaban TV">Yaban TV</channel>
+  <channel update="i" site="engin.tv" site_id="537" xmltv_id="Rumeli TV">Rumeli TV</channel>
+  <channel update="i" site="engin.tv" site_id="1450" xmltv_id="Power TV">Power TV</channel>
+  <channel update="i" site="engin.tv" site_id="1609" xmltv_id="Eurosport News">Eurosport News</channel>
+  <channel update="i" site="engin.tv" site_id="1758" xmltv_id="TRT World">TRT World</channel>
+  <channel update="i" site="engin.tv" site_id="62" xmltv_id="TV6">TV6</channel>
+  <channel update="i" site="engin.tv" site_id="403" xmltv_id="TVEM">TVEM</channel>
+  <channel update="i" site="engin.tv" site_id="351" xmltv_id="TRT OKUL">TRT OKUL</channel>
+  <channel update="i" site="engin.tv" site_id="304" xmltv_id="TMB">TMB</channel>
+  <channel update="i" site="engin.tv" site_id="358" xmltv_id="DUCKTV HD">DUCKTV HD</channel>
+  <channel update="i" site="engin.tv" site_id="363" xmltv_id="SONY ÇOCUK">SONY ÇOCUK</channel>
+  <channel update="i" site="engin.tv" site_id="384" xmltv_id="KIDZ ANIMEZ">KIDZ ANIMEZ</channel>
+  <channel update="i" site="engin.tv" site_id="619" xmltv_id="TV41">TV41</channel>
+  <channel update="i" site="engin.tv" site_id="503" xmltv_id="BABY TV">BABY TV</channel>
+  <channel update="i" site="engin.tv" site_id="46" xmltv_id="KANAL B">KANAL B</channel>
+  <channel update="i" site="engin.tv" site_id="192" xmltv_id="HİLAL TV">HİLAL TV</channel>
+  <channel update="i" site="engin.tv" site_id="402" xmltv_id="BEYKENT TV">BEYKENT TV</channel>
+  <channel update="i" site="engin.tv" site_id="1774" xmltv_id="BRT 1">BRT 1</channel>
+  <channel update="i" site="engin.tv" site_id="1775" xmltv_id="AKİT TV">AKİT TV</channel>
+  <channel update="i" site="engin.tv" site_id="1776" xmltv_id="TÜRKMENELİ TV">TÜRKMENELİ TV</channel>
+  <channel update="i" site="engin.tv" site_id="1834" xmltv_id="A2">A2</channel>
+</channels>

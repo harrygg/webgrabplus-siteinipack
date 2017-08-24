@@ -12,8 +12,8 @@
     <channel update="i" site="entertainment.ie" site_id="53" xmltv_id="Channel 4">Channel 4</channel>
     <channel update="i" site="entertainment.ie" site_id="605" xmltv_id="E4">E4</channel>
     <channel update="i" site="entertainment.ie" site_id="1167" xmltv_id="More4">More4</channel>
-    <channel update="i" site="entertainment.ie" site_id="222" xmltv_id="Sky1">Sky1</channel>
-    <channel update="i" site="entertainment.ie" site_id="919" xmltv_id="Sky2">Sky2</channel>
+    <channel update="i" site="entertainment.ie" site_id="222" xmltv_id="Sky 1">Sky 1</channel>
+    <channel update="i" site="entertainment.ie" site_id="919" xmltv_id="Sky 2">Sky 2</channel>
     <channel update="i" site="entertainment.ie" site_id="1172" xmltv_id="Pick TV">Pick TV</channel>
     <channel update="i" site="entertainment.ie" site_id="935" xmltv_id="BBC Three">BBC Three</channel>
     <channel update="i" site="entertainment.ie" site_id="742" xmltv_id="BBC Four">BBC Four</channel>
@@ -64,8 +64,8 @@
     <channel update="i" site="entertainment.ie" site_id="433" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
     <channel update="i" site="entertainment.ie" site_id="435" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
     <channel update="i" site="entertainment.ie" site_id="437" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
-    <channel update="i" site="entertainment.ie" site_id="1061" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
-    <channel update="i" site="entertainment.ie" site_id="1375" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="entertainment.ie" site_id="1061" xmltv_id="eir Sport 1">eir Sport 1</channel>
+    <channel update="i" site="entertainment.ie" site_id="1375" xmltv_id="eir Sport 2">eir Sport 2</channel>
     <channel update="i" site="entertainment.ie" site_id="275" xmltv_id="Eurosport">Eurosport</channel>
     <channel update="i" site="entertainment.ie" site_id="1076" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="entertainment.ie" site_id="1492" xmltv_id="ESPN">ESPN</channel>

@@ -1,9 +1,9 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <site generator-info-name="WebGrab+Plus version 1.0.5 Beta -- Jan van Straaten" site="tvgids.nl">
   <channels>
-    <channel update="i" site="tvgids.nl.index-only" site_id="1" xmltv_id="Nederland 1">Nederland 1</channel>
-    <channel update="i" site="tvgids.nl.index-only" site_id="2" xmltv_id="Nederland 2">Nederland 2</channel>
-    <channel update="i" site="tvgids.nl.index-only" site_id="3" xmltv_id="Nederland 3">Nederland 3</channel>
+    <channel update="i" site="tvgids.nl.index-only" site_id="1" xmltv_id="NPO 1">NPO 1</channel>
+    <channel update="i" site="tvgids.nl.index-only" site_id="2" xmltv_id="NPO 2">NPO 2</channel>
+    <channel update="i" site="tvgids.nl.index-only" site_id="3" xmltv_id="NPO 3">NPO 3</channel>
     <channel update="i" site="tvgids.nl.index-only" site_id="4" xmltv_id="RTL 4">RTL 4</channel>
     <channel update="i" site="tvgids.nl.index-only" site_id="31" xmltv_id="RTL 5">RTL 5</channel>
     <channel update="i" site="tvgids.nl.index-only" site_id="46" xmltv_id="RTL 7">RTL 7</channel>

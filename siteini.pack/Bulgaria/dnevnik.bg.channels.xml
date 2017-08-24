@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="dnevnik.bg">
+  <channels>
+    <channel site="dnevnik.bg" xmltv_id="Viasat HD" site_id="281_viasat_naturehistory_hd" update="i">Viasat HD</channel>
+    <channel site="dnevnik.bg" xmltv_id="Discovery Science" site_id="122_discovery_science" update="i">Discovery Science</channel>
+    <channel site="dnevnik.bg" xmltv_id="Discovery HD" site_id="246_discovery_hd" update="i">Discovery HD</channel>
+  </channels>
