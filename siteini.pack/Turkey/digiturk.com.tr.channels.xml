@@ -122,9 +122,9 @@
     <channel update="i" site="digiturk.com.tr" site_id="317" xmltv_id="Discovery">Discovery</channel>
     <channel update="i" site="digiturk.com.tr" site_id="318" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="digiturk.com.tr" site_id="319" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="36" xmltv_id="Salon 1">Salon 1</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="37" xmltv_id="Salon 2">Salon 2</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="38" xmltv_id="Salon 3">Salon 3</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="36" xmltv_id="beIN Box Office 1">beIN Box Office 1</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="37" xmltv_id="beIN Box Office 2">beIN Box Office 2</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="38" xmltv_id="beIN Box Office 3">beIN Box Office 3</channel>
     <channel update="i" site="digiturk.com.tr" site_id="138" xmltv_id="Taraftar 204">Taraftar 204</channel>
     <channel update="i" site="digiturk.com.tr" site_id="304" xmltv_id="Taraftar 205">Taraftar 205</channel>
     <channel update="i" site="digiturk.com.tr" site_id="258" xmltv_id="Blue Hustler">Blue Hustler</channel>
